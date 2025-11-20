@@ -1,0 +1,232 @@
+{
+  "29": {
+    "pred_prob": 0.7055749593516734,
+    "true": 1,
+    "top_contribs": [
+      {
+        "feature": "Status_checking_account_A14",
+        "shap": 0.2742416424249212
+      },
+      {
+        "feature": "Credit_amount",
+        "shap": 0.1558398797849949
+      },
+      {
+        "feature": "Duration_months",
+        "shap": 0.11075375635576902
+      },
+      {
+        "feature": "Savings_account_bonds_A61",
+        "shap": 0.09233685975187887
+      },
+      {
+        "feature": "Installment_rate",
+        "shap": 0.08948495045479307
+      },
+      {
+        "feature": "Status_checking_account_A12",
+        "shap": 0.08193195657591892
+      },
+      {
+        "feature": "Status_checking_account_A11",
+        "shap": -0.05564850237896442
+      },
+      {
+        "feature": "Property_A124",
+        "shap": 0.046943111179970964
+      },
+      {
+        "feature": "Property_A121",
+        "shap": 0.04361069771221656
+      },
+      {
+        "feature": "Credit_history_A34",
+        "shap": 0.04018920825856169
+      }
+    ]
+  },
+  "74": {
+    "pred_prob": 0.6897629231814726,
+    "true": 1,
+    "top_contribs": [
+      {
+        "feature": "Status_checking_account_A14",
+        "shap": 0.2614780387824221
+      },
+      {
+        "feature": "Status_checking_account_A11",
+        "shap": 0.21779638786550629
+      },
+      {
+        "feature": "Duration_months",
+        "shap": 0.177510371596205
+      },
+      {
+        "feature": "Installment_rate",
+        "shap": 0.09542717999092779
+      },
+      {
+        "feature": "Purpose_A43",
+        "shap": -0.07150472260540994
+      },
+      {
+        "feature": "Savings_account_bonds_A61",
+        "shap": 0.0676732976744741
+      },
+      {
+        "feature": "Credit_history_A34",
+        "shap": 0.04760749955220947
+      },
+      {
+        "feature": "Housing_A152",
+        "shap": 0.042794314648325435
+      },
+      {
+        "feature": "Property_A124",
+        "shap": 0.036457182064227295
+      },
+      {
+        "feature": "Property_A122",
+        "shap": 0.02359337873771608
+      }
+    ]
+  },
+  "135": {
+    "pred_prob": 0.6891220782644817,
+    "true": 1,
+    "top_contribs": [
+      {
+        "feature": "Status_checking_account_A14",
+        "shap": 0.2549832521464236
+      },
+      {
+        "feature": "Status_checking_account_A11",
+        "shap": 0.190705349316675
+      },
+      {
+        "feature": "Duration_months",
+        "shap": 0.13790141009127668
+      },
+      {
+        "feature": "Savings_account_bonds_A61",
+        "shap": 0.12125338743608714
+      },
+      {
+        "feature": "Installment_rate",
+        "shap": 0.09183029610622581
+      },
+      {
+        "feature": "Credit_history_A34",
+        "shap": 0.06639757798794979
+      },
+      {
+        "feature": "Property_A121",
+        "shap": 0.036468682453907046
+      },
+      {
+        "feature": "Purpose_A42",
+        "shap": -0.034674511190951406
+      },
+      {
+        "feature": "Other_installment_plans_A141",
+        "shap": -0.02803747988443336
+      },
+      {
+        "feature": "Property_A122",
+        "shap": 0.024696735718863383
+      }
+    ]
+  },
+  "143": {
+    "pred_prob": 0.23918782484547568,
+    "true": 0,
+    "top_contribs": [
+      {
+        "feature": "Status_checking_account_A14",
+        "shap": -0.36695066487567546
+      },
+      {
+        "feature": "Duration_months",
+        "shap": -0.2118289133875595
+      },
+      {
+        "feature": "Credit_history_A34",
+        "shap": -0.09473901991386295
+      },
+      {
+        "feature": "Status_checking_account_A11",
+        "shap": -0.06322168984084083
+      },
+      {
+        "feature": "Other_installment_plans_A141",
+        "shap": -0.05259499090482218
+      },
+      {
+        "feature": "Age_years",
+        "shap": -0.05043513161952498
+      },
+      {
+        "feature": "Property_A121",
+        "shap": -0.04514171446612446
+      },
+      {
+        "feature": "Status_checking_account_A12",
+        "shap": -0.039923470569582495
+      },
+      {
+        "feature": "Installment_rate",
+        "shap": -0.03536261886973736
+      },
+      {
+        "feature": "Credit_amount",
+        "shap": -0.03287064962015367
+      }
+    ]
+  },
+  "100": {
+    "pred_prob": 0.2394283512354303,
+    "true": 0,
+    "top_contribs": [
+      {
+        "feature": "Status_checking_account_A14",
+        "shap": -0.30487288810411783
+      },
+      {
+        "feature": "Savings_account_bonds_A61",
+        "shap": -0.17422709514084425
+      },
+      {
+        "feature": "Credit_history_A34",
+        "shap": -0.10059794714207508
+      },
+      {
+        "feature": "Status_checking_account_A11",
+        "shap": -0.09211530701105049
+      },
+      {
+        "feature": "Other_installment_plans_A141",
+        "shap": -0.06680810620376199
+      },
+      {
+        "feature": "Savings_account_bonds_A65",
+        "shap": -0.06365926682940591
+      },
+      {
+        "feature": "Age_years",
+        "shap": -0.03976242116804436
+      },
+      {
+        "feature": "Purpose_A41",
+        "shap": -0.028965372297114333
+      },
+      {
+        "feature": "Other_installment_plans_A143",
+        "shap": -0.025609214920544417
+      },
+      {
+        "feature": "Personal_status_sex_A92",
+        "shap": -0.025247011771382354
+      }
+    ]
+  }
+}
